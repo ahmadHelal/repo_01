@@ -1,3 +1,2 @@
-Line from cloud file01 master
 Line from local file01 branch
 Line 2 from local file01 branch
