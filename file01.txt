@@ -1,1 +1,1 @@
-Line from cloud file01 master
+Line from cloud file01 master "edited"
